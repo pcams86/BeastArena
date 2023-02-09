@@ -84,10 +84,10 @@ class Character:
 
 
 beasts = [
-    {"name": "Grimclaw", "hp": 100, "attack": 50, "story": "Grimclaw's story"},
-    {"name": "Shadowfang", "hp": 90, "attack": 60, "story": "Shadowfangs's story"},
-    {"name": "Thunderhoof", "hp": 110, "attack": 40, "story": "Thunderhoof's story"},
-    {"name": "Bloodtusk", "hp": 80, "attack": 70, "story": "Bloodtusk's story"},
-    {"name": "Firebreather", "hp": 120, "attack": 30, "story": "Firebreather's story"}]
+    {"name": "Grimclaw", "hp": 100, "attack": 50, "story": "Grimclaw flew into the arena with the face of a T-rex and the wings of a dragon; he snarls ready to devour"},
+    {"name": "Shadowfang", "hp": 90, "attack": 60, "story": "Shadowfang slithered into the arena with her pitch black scales and glowing purple eyes"},
+    {"name": "Thunderhoof", "hp": 110, "attack": 40, "story": "Thunderhoof stomps over sparks exploding out of his hooves and seems as though he is an electrified horse"},
+    {"name": "Bloodtusk", "hp": 80, "attack": 70, "story": "Bloodtusk glides into battle he is a colossal snake with blood red tusks"},
+    {"name": "Firebreather", "hp": 120, "attack": 30, "story": "Firebreather scurrys into the arena only 6 pounds but not to be underestimated she is a squirrel with immense cabality"}]
 
 run_game()
